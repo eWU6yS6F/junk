@@ -195,4 +195,5 @@ tr.retail td:hover .title:after { all: unset }
 /* Fix hover text visibility */
 tr.seeding td:hover a.seeders::before, tr.snatched td:hover a.snatches::before {
     color: black;
+    background: #6f6f6f;
 }
