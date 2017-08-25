@@ -173,7 +173,7 @@ span[style="color: rgb(0, 0, 0); background-color: rgb(0, 0, 0);"]:before, span[
 }
 
 /* Colour background of retails: */ 
-.span.torRetail {
+span.torRetail {
     background-color: rgba(157, 31, 111, 0.46) !important;
     color: #a3f3b6 !important;
 }
