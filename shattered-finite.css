@@ -197,3 +197,7 @@ tr.seeding td:hover a.seeders::before, tr.snatched td:hover a.snatches::before, 
     color: black;
     background: #6f6f6f;
 }
+
+.ann_hr, hr {
+    background: rgba(180, 158, 175, 0.85);
+}
