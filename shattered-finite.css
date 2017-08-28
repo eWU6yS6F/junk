@@ -86,7 +86,7 @@ img[src^="http://bibliotik.me/static/smileys/"] {
 }
 
 strong.newflag ~ span.title a {
-    color: rgb(241, 212, 255) !important;
+    color: rgb(104, 177, 198) !important;
 }
 
 /* Switch old and new message icons */
