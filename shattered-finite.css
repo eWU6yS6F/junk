@@ -154,6 +154,13 @@ span[style="color: rgb(0, 0, 0); background-color: rgb(0, 0, 0);"]:before, span[
     border-bottom: 1px solid rgb(229, 183, 243);
 }
 
+/* Fix Collections columns */
+#main #detailsbox + h2 + #gallery {
+    -moz-column-fill: 0px;
+    column-fill: 0px;
+}
+
+
 /* Vanity */
 .postInfo a[href="http://bibliotik.me/users/22891/"]:after, #pre_header_status a[href="http://bibliotik.me/users/22891"]:after, .lastEdited a[href="http://bibliotik.me/users/22891/"]:after, .conversation_table a[href="http://bibliotik.me/users/22891/"]:after, .forums a[href="http://bibliotik.me/users/22891/"]:after {
     content: '?!';
