@@ -12,6 +12,14 @@ html, body {
     font-size: 0.865em;
 }
 
+pre {
+    color: rgb(255, 201, 255);
+}
+
+code {
+    color: rgb(225, 138, 165);
+}
+
 a:hover, a:active {
     color: rgb(229, 183, 243);
 }
